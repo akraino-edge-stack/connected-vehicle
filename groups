@@ -2,4 +2,3 @@
 #
 0706f97cf3b2243094a8f24452092769b1065db0                                             	GitHub Replication
 fc62f3ab88f9950edc9d06bb0f20f008bd9033ff                                             	saml/akraino-gerrit-connected-vehicle-committers
-ldap:cn=akraino-gerrit-connected-vehicle-committers,ou=Groups,dc=freestandards,dc=org	ldap/akraino-gerrit-connected-vehicle-committers
